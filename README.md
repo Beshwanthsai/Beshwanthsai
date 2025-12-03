@@ -46,7 +46,7 @@ I’m an engineer in the making who loves building AI-driven systems, NLP pipeli
 
 ---
 
-# 💻 Tech Stack (Badges)
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,12 +63,12 @@ I’m an engineer in the making who loves building AI-driven systems, NLP pipeli
 
 ---
 
-# 🧩 Developer Quote (Custom)
+# 🧩 Developer Quote
 > **“Code is just the language. The real engineering begins when you choose what *not* to write.”**
 
 ---
 
-# 📊 GitHub Analytics (Reliable & Elegant)
+# 📊 GitHub Analytics
 
 ### 🎯 Contribution Heatmap  
 ![Contribution Heatmap](https://ghchart.rshah.org/Beshwanthsai)
