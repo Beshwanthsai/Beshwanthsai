@@ -3,7 +3,7 @@
 ### 🎓 B.Tech CSE @ KL University  
 ### 🤖 AI & Language Technologies | ☁️ AWS CP | 🚀 Amaravati Quantum Valley Hackathon Semi-Finalist  
 
-I’m an engineer in the making who loves building AI-driven systems, NLP applications, and scalable web solutions. I enjoy turning real problems into clean, efficient code — and using modern AI + cloud tooling to push projects to the next level.
+I’m an engineer in the making who loves building AI-driven systems, NLP pipelines, and scalable web applications. I focus on writing clean, maintainable code and building projects that actually solve problems — not just look good on a resume.
 
 ---
 
@@ -17,8 +17,8 @@ I’m an engineer in the making who loves building AI-driven systems, NLP applic
 ---
 
 ## 📌 Featured Projects  
-- 🧠 **Learning Hub** – AI-based recommendation engine + quiz module  
-- 💬 **AI-Powered Chatbot** – React + JavaScript chatbot using modern LLMs  
+- 🧠 **Learning Hub** – AI-based course recommendations + quiz engine  
+- 💬 **AI-Powered Chatbot** – Chatbot built using React + modern LLM APIs  
 - 💰 **Personal Finance Management System** – Expense tracking + budget analytics  
 - 🌐 **Personal Portfolio Website**  
 
@@ -29,7 +29,7 @@ I’m an engineer in the making who loves building AI-driven systems, NLP applic
 - 📜 AWS Certified Cloud Practitioner  
 - 🚀 Amaravati Quantum Valley Hackathon 2025 Semi-Finalist  
 - 🎓 Completed Career Essentials in Generative AI (Microsoft + LinkedIn)  
-- ⚡ Active team lead at ZeroOne Code Club  
+- ⚡ Team Lead at ZeroOne Code Club  
 
 ---
 
@@ -41,49 +41,54 @@ I’m an engineer in the making who loves building AI-driven systems, NLP applic
 ---
 
 ## ⚡ Fun Facts  
-- I’ve worn my Casio Edifice EQB-501AD every single day since June 13, 2022. It’s survived exams, hackathons, and coding all-nighters.  
-- Reigning *musical chairs champion* since UKG — undefeated legacy.  
+- I’ve worn my Casio Edifice EQB-501AD every single day since June 13, 2022 — my unofficial co-founder for all coding marathons.  
+- Musical chairs champion since UKG. Legacy title still unbeaten.  
 
 ---
 
 # 💻 Tech Stack (Badges)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Beshwanthsai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Beshwanthsai&theme=blue-green&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&theme=blue-green&hide_border=false&layout=compact)
+# 🧩 Developer Quote (Custom)
+> **“Code is just the language. The real engineering begins when you choose what *not* to write.”**
+
+---
+
+# 📊 GitHub Analytics (Elegant Theme)
+
+### 🎯 Overall Activity  
+![](https://github-readme-stats.vercel.app/api?username=Beshwanthsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+### 🔥 Contribution Streak  
+![](https://nirzak-streak-stats.vercel.app/?user=Beshwanthsai&theme=tokyonight&hide_border=true)
+
+### 💡 Top Languages  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Beshwanthsai&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Developer Quote  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=Beshwanthsai&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
 
 ### 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=Beshwanthsai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Beshwanthsai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Beshwanthsai&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Beshwanthsai&icon=0&color=1)](https://visitcount.itsvg.in)
