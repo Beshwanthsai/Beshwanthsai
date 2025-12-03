@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Beshwanth
+# 👋 Hey, I'm Beshwanth Sai Katari
 
 ### 🎓 B.Tech CSE @ KL University  
 ### 🤖 AI & Language Technologies | ☁️ AWS CP | 🚀 Amaravati Quantum Valley Hackathon Semi-Finalist  
@@ -68,16 +68,22 @@ I’m an engineer in the making who loves building AI-driven systems, NLP pipeli
 
 ---
 
-# 📊 GitHub Analytics (Elegant Theme)
+# 📊 GitHub Analytics (Reliable & Elegant)
 
-### 🎯 Overall Activity  
-![](https://github-readme-stats.vercel.app/api?username=Beshwanthsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 🎯 Contribution Heatmap  
+![Contribution Heatmap](https://ghchart.rshah.org/Beshwanthsai)
 
-### 🔥 Contribution Streak  
-![](https://nirzak-streak-stats.vercel.app/?user=Beshwanthsai&theme=tokyonight&hide_border=true)
+> (This is a lightweight, stable contribution heatmap — replace `Beshwanthsai` with your username if needed.)
 
-### 💡 Top Languages  
+### 🔥 Activity Graph (Alternative visual)  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Beshwanthsai&theme=react-dark&area=true)
+
+> (If this one fails, the service might be temporarily down — see troubleshooting tips below.)
+
+### 💡 Top Languages (compact)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&layout=compact&theme=tokyonight&hide_border=true)
+
+> Note: removed `count_private` and `include_all_commits` flags to avoid auth errors. If you want private commit counts included, we can set up a secure token — I can guide you.
 
 ---
 
