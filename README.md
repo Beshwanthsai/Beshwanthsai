@@ -75,15 +75,12 @@ I’m an engineer in the making who loves building AI-driven systems, NLP pipeli
 
 > (This is a lightweight, stable contribution heatmap — replace `Beshwanthsai` with your username if needed.)
 
-### 🔥 Activity Graph (Alternative visual)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Beshwanthsai&theme=react-dark&area=true)
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Beshwanthsai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Beshwanthsai&theme=blue-green&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&theme=blue-green&hide_border=false&layout=compact)
 
-> (If this one fails, the service might be temporarily down — see troubleshooting tips below.)
 
-### 💡 Top Languages (compact)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&layout=compact&theme=tokyonight&hide_border=true)
-
-> Note: removed `count_private` and `include_all_commits` flags to avoid auth errors. If you want private commit counts included, we can set up a secure token — I can guide you.
 
 ---
 
