@@ -1,42 +1,27 @@
-### 🎓 B.Tech CSE @ KL University | 🤖 AI-Driven Language Technologies | 🚀 Amaravati Quantum Valley Hackathon Semi-Finalist | ☁️ AWS CP Certified  
+# 💫 About Me:
+### 🎓 B.Tech CSE @ KL University | 🤖 AI-Driven Language Technologies | 🚀 Amaravati Quantum Valley Hackathon Semi-Finalist | ☁️ AWS CP Certified  <br><br>Hi there! 👋 I’m **Beshwanth**, an aspiring engineer passionate about building intelligent language models, NLP applications, and AI-driven web solutions. I thrive on solving real-world problems using cutting-edge AI and open-source technologies.<br><br>---<br><br>### 🛠 Tech Stack  <br>- **Languages**: Python, C, Core Java, JavaScript  <br>- **AI & NLP**: Hugging Face Transformers, spaCy, NLTK, Gemini APIs  <br>- **Frameworks**: Django, React, Spring Boot  <br>- **Tools**: Git, Docker, Vite, Clerk, Redux  <br>- **Cloud**: AWS Certified Cloud Practitioner, Google Cloud  <br><br>---<br><br>### 📂 Featured Projects  <br>- 🧠 **Learning Hub** – AI-based recommendations and quizzes  <br>- 💬 **AI-Powered Chatbot** – React + JavaScript chatbot leveraging modern LLMs  <br>- 💰 **Personal Finance Management System** – Expense tracking and financial planning  <br>- ✨ **Personal Portfolio**  <br><br>---<br><br>### 🏆 Achievements  <br>- 🥈 Problem Solver Silver Badge on CodeChef (250+ problems solved)  <br>- 📜 AWS Certified Cloud Practitioner  <br>- ⚡ Amaravati Quantum Valley Hackathon 2025 Semi-Finalist  <br>- 🎓 Career Essentials in Generative AI by Microsoft & LinkedIn  <br>- ⚡ Active ZeroOne Code Club team lead and event organizer  <br><br>---<br><br>### 📫 Connect with Me  <br>- 🌐 LinkedIn: [https://www.linkedin.com/in/beshwanth-sai-katari-9b0b0628a/](https://www.linkedin.com/in/beshwanth-sai-katari-9b0b0628a/)  <br>- 🐙 GitHub: [https://github.com/Beshwanthsai](https://github.com/Beshwanthsai)  <br>- 📧 Email: beshwanthsai2005@gmail.com  <br><br>---<br><br>### 💡 Fun Fact  <br>• I’ve been wearing my favorite Casio Edifice EQB-501AD watch since June 13, 2022 ⌚—it’s my lucky charm during hackathons and coding sprints!<br>• Musical chairs champion 🏆 in UKG {Champion Since then✨}
 
-Hi there! 👋 I’m **Beshwanth**, an aspiring engineer passionate about building intelligent language models, NLP applications, and AI-driven web solutions. I thrive on solving real-world problems using cutting-edge AI and open-source technologies.
 
----
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@beshwanthsai2005) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Alternative_Win_641) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beshwanthsai2005@gmail.com) 
 
-### 🛠 Tech Stack  
-- **Languages**: Python, C, Core Java, JavaScript  
-- **AI & NLP**: Hugging Face Transformers, spaCy, NLTK, Gemini APIs  
-- **Frameworks**: Django, React, Spring Boot  
-- **Tools**: Git, Docker, Vite, Clerk, Redux  
-- **Cloud**: AWS Certified Cloud Practitioner, Google Cloud  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Beshwanthsai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Beshwanthsai&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beshwanthsai&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Beshwanthsai&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 📂 Featured Projects  
-- 🧠 **Learning Hub** – AI-based recommendations and quizzes  
-- 💬 **AI-Powered Chatbot** – React + JavaScript chatbot leveraging modern LLMs  
-- 💰 **Personal Finance Management System** – Expense tracking and financial planning  
-- ✨ **Personal Portfolio**  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-
-### 🏆 Achievements  
-- 🥈 Problem Solver Silver Badge on CodeChef (250+ problems solved)  
-- 📜 AWS Certified Cloud Practitioner  
-- ⚡ Amaravati Quantum Valley Hackathon 2025 Semi-Finalist  
-- 🎓 Career Essentials in Generative AI by Microsoft & LinkedIn  
-- ⚡ Active ZeroOne Code Club team lead and event organizer  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Beshwanthsai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Beshwanthsai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Connect with Me  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/beshwanth-sai-katari-9b0b0628a/](https://www.linkedin.com/in/beshwanth-sai-katari-9b0b0628a/)  
-- 🐙 GitHub: [https://github.com/Beshwanthsai](https://github.com/Beshwanthsai)  
-- 📧 Email: beshwanthsai2005@gmail.com  
-
----
-
-### 💡 Fun Fact  
-• I’ve been wearing my favorite Casio Edifice EQB-501AD watch since June 13, 2022 ⌚—it’s my lucky charm during hackathons and coding sprints!
-• Musical chairs champion 🏆 in UKG {Champion Since then✨}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
